@@ -10,7 +10,7 @@ I primarily do research in image segmentation (did research on a CV model and be
 
 **[Gummy-Net](https://github.com/vitdetCpu/Gummy-Net):** A research study conducted on SOTA model SimpleClick, adding a decoder and measuring improvement of segmentation quality. Beat SimpleClick on 5 metrics across datasets DAVIS, Berkeley, and SBD.
 
-**[Forge](https://github.com/vitdetCpu/Forge):** AI interview coach that tracks your improvement in real time and adapts its questioning style as you get better. Built with Daily, Deepgram, and Claude API.
+**[Forge](https://github.com/vitdetCpu/Forge):** AI interview coach that tracks your improvement in real time and adapts its questioning style as you get better. Built with Daily, Deepgram, Pipecat, Redis, and Claude API.
 
 **Multishot:** Desktop app that runs multiple Claude AI agents in parallel for generalized tasks, allowing the user to view all instances and choose the right one. If one instance errors out, another works, ensuring proper error fallback.
 
