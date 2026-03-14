@@ -2,7 +2,7 @@
 
 I'm a high school senior interested in **AI, computer vision, and shipping production grade products**.
 
-I primarily do research in image segmentation (did research on a CV model and beat UNC Chapel Hill's state-of-the-art SimpleClick on multiple metrics at UC Davis COSMOS) and build agentic AI apps at hackathons.
+I primarily do research in image segmentation (did research on a CV model and beat UNC Chapel Hill's state-of-the-art SimpleClick on multiple metrics at UC Davis COSMOS) and build agentic AI apps at hackathons. I'm also a fullstack AI engineering intern at Geodo, where I am building backend infrastructure and UI for an agentic AI platform, designing database schemas, building data ingestion pipelines, and setting up/improving vector search for semantic retrieval, and shipping UI updates to reflect backend architecture.
 
 ---
 
